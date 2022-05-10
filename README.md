@@ -1,2 +1,2 @@
-# session-9-testng-demo
-Session # 9 (TestNG Unit Testing + CI)
+# session-9-demos-testng
+TestNG Demo (Unit Test)
