@@ -18,6 +18,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 
     @Override
     public void saveEmployee(Employee employee) {
+        // todo should save the employee details to db
         System.out.println("---< EMPLOYEE RECORD IS SAVED >---");
     }
 
